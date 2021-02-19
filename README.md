@@ -1,5 +1,5 @@
 # Deep-Neural-Network-Cat-Classifier
-* Initialize the parameters for a two-layer network and for an 𝐿 L -layer neural network.
+* Initialize the parameters for a two-layer network and for an 𝐿 -layer neural network.
 * Implement the forward propagation module (shown in purple in the figure below).
     * Complete the LINEAR part of a layer's forward propagation step (resulting in 𝑍[𝑙]).
     * We give you the ACTIVATION function (relu/sigmoid).
